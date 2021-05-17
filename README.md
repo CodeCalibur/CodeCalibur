@@ -1,11 +1,14 @@
-### Hi there, I'm Abhishek - aka CodeCalibur!
+<h1 align="center">Hi there, I'm Abhishek - aka CodeCalibur!</h1>
 
 
 ## I'm a student passionate for learning!
 
 - 🌱 I’m currently trying to gain knowledge in as many fields as possible
 - 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact: I love to play football and I've represented 🇮🇳 in ESports
+- ⚡ Fun fact: I love to play football and I've represented India in ESports
+
+
+<p align="center"><img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Coding GIF" width="450" height="320"></p>
 
 
 ### Connect with me:
